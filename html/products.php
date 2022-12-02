@@ -23,6 +23,7 @@
         echo '<td>' . $row['price'] . '</td>';
         echo '<td>' . $row['stock'] . '</td>';
     }
+
     ?>
     </tbody>
 </table>
